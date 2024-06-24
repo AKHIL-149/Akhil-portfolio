@@ -26,4 +26,4 @@ Visit [https://AKHIL-149.github.io/Akhil-portfolio](https://AKHIL-149.github.io/
 
 ## Contact
 
-For any inquiries, please contact [mailto:makhil@saintpeters.edu](mailto:makhil@saintpeters.edu).
+For any inquiries, please contact [makhil@saintpeters.edu](mailto:makhil@saintpeters.edu).
