@@ -15,7 +15,7 @@ This repository contains the source code for my personal portfolio website, buil
 
 ## Usage
 
-Visit [https://your-username.github.io/portfolio](https://AKHIL-149.github.io/Akhil-portfolio) to view the live site.
+Visit [https://AKHIL-149.github.io/Akhil-portfolio](https://AKHIL-149.github.io/Akhil-portfolio) to view the live site.
 
 ## Features
 
@@ -26,4 +26,4 @@ Visit [https://your-username.github.io/portfolio](https://AKHIL-149.github.io/Ak
 
 ## Contact
 
-For any inquiries, please contact [your-email@example.com](mailto:makhil@saintpeters.edu).
+For any inquiries, please contact [mailto:makhil@saintpeters.edu](mailto:makhil@saintpeters.edu).
